@@ -3,7 +3,7 @@
 
 ## **Survey URL**
 
-[Tech Perspective Survey](https://tech-perspective-survey.netlify.app/admin)
+[Tech Perspective Survey](https://tech-perspectives-survey.netlify.app/)
 
 ## **The vision**
 
